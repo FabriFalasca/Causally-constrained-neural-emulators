@@ -1,3 +1,6 @@
 Repository for "Causally constrained reduced-order neural climate emulators via response theory"
 
-Work in progress
+Work in progress: the repository will consist in a few notebooks where we explain step by step how to 
+
+(a) identify direct causal links via the FDT and score matching;
+(b) enforce the inferred causal structure in neural emulators architectures
