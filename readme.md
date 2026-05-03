@@ -6,10 +6,14 @@
 Find the paper in https://arxiv.org/abs/2602.13847
 
 - Folder CdV
+  
 Codes to replicate the results in Section IIIA of the paper on the Charney-DeVore model. 
 Here you find 3 folders: 
+
 -- Numerical: codes to run the ground truth simulation and responses to impulse and step function forcings.
+
 -- score_matching: codes to infer the score of the system, responses via the Fluctuation-Dissipation Theorem and the causal adjacency matrix from data.
+
 -- neural_models: Codes for the Physics constrained and "Physics & Causal" consttrained neural models to fit from data.
 
 - Folder L96
