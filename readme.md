@@ -5,8 +5,7 @@
 
 Find the paper in https://arxiv.org/abs/2602.13847
 
-- Folder CdV
-Codes to replicate the results in Section IIIA of the paper on the Charney-DeVore model. 
+- Folder CdV: Codes to replicate the results in Section IIIA of the paper on the Charney-DeVore model. 
 Here you find 3 folders: 
 
 -- Numerical: codes to run the ground truth simulation and responses to impulse and step function forcings.
