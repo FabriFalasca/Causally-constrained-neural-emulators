@@ -1,4 +1,4 @@
-# Codes for "Physics and causally constrained discrete-time neural models of turbulent dynamical systems"
+# Codes for "Physics constraints and response validation in discrete-time reduced-order modeling: from idealized turbulent systems to climate dynamics"
 
 ## (Work in progress)
 
