@@ -6,6 +6,8 @@
 
 Find the paper in https://arxiv.org/abs/2602.13847
 
+- Folder Tropical Climate Dynamics: TO ADD
+
 - Folder CdV. Codes to replicate the results in Section IIIA of the paper on the Charney-DeVore model. 
 Here you find 3 folders: 
 
@@ -20,5 +22,3 @@ Here you find 3 folders:
 - Folder Splitting-Approximation-Examples. Here find the simple experiments defined in Section II of the Supplemental Material. We show how, given a small $\Delta t$ we can approximate the 
 Lorenz-63 and a triad model using the splitting procedure considered in the main paper. In the case of the Lorenz-63 system 
 this leads to a nice sequential reformulation of the dynamics.
-
-- Folder Tropical Climate Dynamics: TO ADD
